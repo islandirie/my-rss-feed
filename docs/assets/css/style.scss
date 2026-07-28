@@ -1,0 +1,33 @@
+---
+---
+@import "jekyll-theme-minimal";
+
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.wrapper, .content {
+  background: transparent;
+}
+
+a {
+  color: #93c5fd;
+}
+
+a:hover {
+  color: #bfdbfe;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #f8fafc;
+}
+
+blockquote, pre, code {
+  background: #1e293b;
+  color: #e5e7eb;
+}
+
+hr {
+  border-color: #334155;
+}
