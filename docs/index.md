@@ -21,8 +21,8 @@ Built with a `curate → score → summarize → publish` pipeline running daily
 - **Scoring:** Relevance keywords + freshness decay + source quality + bookmark similarity
 - **Caps:** max 3 AI · 2 security · 2 DevOps · 3 SWE · 2 podcasts per day
 
-→ [How to add sources / tune interests](https://github.com/islandirie/my-rss-feed/blob/main/feeds.yaml)
-→ [Add bookmarks to personalise](https://github.com/islandirie/my-rss-feed/blob/main/bookmarks.json)
-→ [Contributing / AI dev guide](https://github.com/islandirie/my-rss-feed/blob/main/VIBE_CODING.md)
+→ [How to add sources / tune interests](../feeds.yaml)
+→ [Add bookmarks to personalise](../bookmarks.json)
+→ [Contributing / AI dev guide](../VIBE_CODING.md)
 
 *Auto-updated daily by GitHub Actions*
