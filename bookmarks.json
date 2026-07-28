@@ -1,0 +1,47 @@
+{
+  "_comment": "Seed your bookmarks here to bootstrap personalization. The pipeline extracts keywords from these to boost similar incoming content.",
+  "items": [
+    {
+      "title": "Top Coding Models Benchmark 2024",
+      "url": "https://example.com/coding-models-2024",
+      "tags": ["coding-models", "llm", "benchmark", "ai"],
+      "added": "2024-01-01"
+    },
+    {
+      "title": "Grok 1.5 release – what changed",
+      "url": "https://example.com/grok-1-5",
+      "tags": ["grok", "llm", "ai", "model-release"],
+      "added": "2024-03-01"
+    },
+    {
+      "title": "OpenClaw: the agentic tool that actually works",
+      "url": "https://example.com/openclaw",
+      "tags": ["agentic", "ai-tools", "coding", "swe"],
+      "added": "2024-04-01"
+    },
+    {
+      "title": "Hermes 2 Pro – open source function calling model",
+      "url": "https://example.com/hermes-2-pro",
+      "tags": ["hermes", "llm", "open-source", "function-calling"],
+      "added": "2024-05-01"
+    },
+    {
+      "title": "SWE-bench – coding benchmark for LLMs",
+      "url": "https://example.com/swe-bench",
+      "tags": ["swe-bench", "benchmark", "llm", "coding"],
+      "added": "2024-06-01"
+    },
+    {
+      "title": "Platform Engineering: building an IDP",
+      "url": "https://example.com/platform-engineering",
+      "tags": ["platform-engineering", "idp", "devops", "dx"],
+      "added": "2024-06-15"
+    },
+    {
+      "title": "eBPF for Kubernetes observability",
+      "url": "https://example.com/ebpf-k8s",
+      "tags": ["ebpf", "kubernetes", "observability", "security"],
+      "added": "2024-07-01"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "Seen item URLs \u2014 prevents the same item appearing twice. Managed automatically by the pipeline.",
+  "seen_urls": [
+    "https://krebs.com/openssh-cve",
+    "https://news.ycombinator.com/item?id=12345",
+    "https://pragmaticengineer.com/idp",
+    "https://twit.tv/this-week-in-tech",
+    "https://kubernetes.io/blog/k8s-1-32",
+    "https://anthropic.com/claude4"
+  ],
+  "seen_titles": [
+    "claude 4 released: best coding model to date",
+    "this week in tech: best ai tools of 2025",
+    "show hn: i built an open source agentic coding tool",
+    "platform engineering: how to build an internal developer platform",
+    "kubernetes 1.32 release notes and new features",
+    "critical cve in openssh: remote code execution"
+  ],
+  "last_updated": "2026-07-28T03:22:52.513574+00:00"
+}

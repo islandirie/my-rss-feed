@@ -1,0 +1,84 @@
+name: Daily Digest
+
+on:
+  schedule:
+    # Runs at 07:00 UTC every day (adjust to your timezone preference)
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_hours:
+        description: "How many hours back to scan for items"
+        required: false
+        default: "48"
+      date_override:
+        description: "Override date (YYYY-MM-DD, leave blank for today)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # full history so git log works
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect new items
+        run: |
+          LOOKBACK="${{ github.event.inputs.lookback_hours || '48' }}"
+          python scripts/collect.py --lookback-hours "$LOOKBACK"
+
+      - name: Rank and select top-10
+        run: python scripts/rank.py
+
+      - name: Summarize "why it matters"
+        run: python scripts/summarize.py
+
+      - name: Render digest pages
+        run: |
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date_override }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date_override }}"
+          fi
+          python scripts/render.py $DATE_ARG
+
+      - name: Commit and push changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/seen.json
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit today."
+          else
+            TODAY=$(date -u +%Y-%m-%d)
+            git commit -m "digest: daily top-10 for ${TODAY}"
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        if: success()
+        # This action requires the Pages source to be set to "GitHub Actions"
+        # in repo Settings → Pages → Source.
+        # If you prefer branch-based deploy (docs/ folder on main), remove
+        # this step and rely on the commit+push above.
+        continue-on-error: true   # graceful fail if Pages not yet configured

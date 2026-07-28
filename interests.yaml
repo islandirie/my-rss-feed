@@ -1,0 +1,178 @@
+# interests.yaml — weighted interest keywords for relevance scoring
+#
+# Structure:
+#   categories: top-level buckets with a daily cap (max items per day)
+#   keywords: term → weight (1–10). Higher weight = stronger boost.
+#   boost_phrases: multi-word phrases that give an extra signal boost
+#   hype_penalties: terms that reduce score when too generic/repetitive
+
+daily_cap: 10
+
+categories:
+  ai:
+    cap: 3          # max 3 AI items per day
+    weight: 1.4     # category multiplier
+  swe:
+    cap: 3
+    weight: 1.3
+  devops:
+    cap: 2
+    weight: 1.2
+  security:
+    cap: 2
+    weight: 1.2
+  podcast:
+    cap: 2
+    weight: 1.0
+  news:
+    cap: 3
+    weight: 1.1
+
+keywords:
+  # ── AI / LLM / Agents ──────────────────────────────────────────────────
+  llm: 9
+  "language model": 8
+  grok: 9
+  claude: 9
+  "gpt-5": 10
+  "gpt-4": 8
+  gemini: 8
+  mistral: 8
+  llama: 8
+  "code generation": 9
+  "coding model": 10
+  "agentic": 10
+  "ai agent": 10
+  "multi-agent": 9
+  benchmark: 8
+  "swe-bench": 10
+  "lm-sys": 9
+  "chatbot arena": 9
+  "reasoning model": 9
+  "open source model": 8
+  "model release": 9
+  "fine-tuning": 7
+  rag: 7
+  "retrieval augmented": 7
+  mcp: 9               # Model Context Protocol
+  "tool use": 8
+  "function calling": 8
+  "open claw": 10      # openclaw (agentic tool)
+  hermes: 9            # hermes model
+  "cursor": 8          # AI coding IDE
+  "copilot": 8
+  "codeium": 7
+  "tabnine": 6
+  "ai coding": 10
+  "autonomous coding": 10
+  "ai devtools": 9
+
+  # ── Software Engineering ─────────────────────────────────────────────────
+  "software architecture": 7
+  "system design": 7
+  "clean code": 6
+  "refactoring": 6
+  "open source": 7
+  "developer experience": 7
+  devex: 7
+  "platform engineering": 8
+  "internal developer platform": 8
+  idp: 7
+  sdk: 6
+  api: 5
+  "monorepo": 7
+  "micro-frontend": 6
+  "web assembly": 7
+  wasm: 7
+  rust: 8
+  golang: 7
+  typescript: 7
+  python: 6
+  "performance": 6
+  "observability": 7
+  "distributed systems": 8
+  "event driven": 7
+  "microservices": 6
+
+  # ── DevOps / Platform / Cloud ─────────────────────────────────────────────
+  kubernetes: 8
+  k8s: 8
+  docker: 7
+  helm: 7
+  "ci/cd": 8
+  "github actions": 8
+  "platform engineering": 8
+  terraform: 7
+  "infrastructure as code": 8
+  iac: 8
+  "gitops": 8
+  argocd: 8
+  "service mesh": 7
+  ebpf: 8
+  "open telemetry": 8
+  otel: 8
+  "cost optimization": 7
+  finops: 7
+  "chaos engineering": 7
+  sre: 8
+
+  # ── Security ─────────────────────────────────────────────────────────────
+  "zero trust": 8
+  "supply chain attack": 9
+  cve: 8
+  vulnerability: 7
+  exploit: 8
+  "ransomware": 7
+  "threat intelligence": 8
+  soc: 7
+  siem: 7
+  "devsecops": 8
+  "secret management": 8
+  "pen testing": 7
+  "red team": 7
+  "incident response": 8
+  "data breach": 8
+  "phishing": 6
+
+  # ── Tools & Releases (novelty boosters) ───────────────────────────────────
+  "new tool": 9
+  "just released": 9
+  "v2.0": 8
+  "launches": 8
+  "introduces": 7
+  "announces": 7
+  "open sourced": 9
+
+boost_phrases:
+  - "best coding models"
+  - "top llm"
+  - "new llm release"
+  - "agentic coding"
+  - "ai pair programmer"
+  - "model benchmarks"
+  - "open source llm"
+  - "autonomous agent"
+  - "platform engineer"
+  - "zero day"
+  - "critical vulnerability"
+  - "supply chain"
+  - "this week in tech"
+  - "devops weekly"
+  - "sre weekly"
+
+hype_penalties:
+  # Words that trigger a score reduction when the item is likely low-signal hype
+  - "ai will replace"
+  - "chatgpt is amazing"
+  - "chatgpt can now"
+  - "10x developer"
+  - "hustle"
+  - "web3"
+  - "nft"
+  - "blockchain" # unless paired with security/protocol terms
+  - "crypto"
+  - "metaverse"
+  - "prompt engineering tips"   # too generic
+  - "beginner guide to"
+  - "ultimate guide to"
+  - "everything you need to know"
