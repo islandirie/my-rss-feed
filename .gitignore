@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Transient pipeline data (generated each run, not committed)
+data/candidates.json
+data/top10.json
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env.local
+*.secret
+
+# Jekyll build output (GitHub Pages builds this remotely)
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata

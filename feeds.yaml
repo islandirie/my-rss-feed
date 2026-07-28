@@ -1,0 +1,184 @@
+# feeds.yaml — all RSS/API sources for the daily digest pipeline
+# Add or remove sources here. Keep it to ~15-25 high-signal feeds.
+# Fields:
+#   name: human-readable label
+#   url: RSS/Atom feed URL (or "hn_api" / "youtube" for special sources)
+#   type: rss | hn | youtube
+#   category: one of [ai, devops, security, swe, podcast, news]
+#   quality: 1-5 (source quality weight, higher = more trusted)
+#   enabled: true/false (quick on/off without deleting)
+
+sources:
+  # ── Hacker News ──────────────────────────────────────────────────────────
+  - name: "Hacker News – Best Stories"
+    url: "https://hnrss.org/best"
+    type: rss
+    category: news
+    quality: 5
+    enabled: true
+
+  - name: "Hacker News – Show HN"
+    url: "https://hnrss.org/show"
+    type: rss
+    category: news
+    quality: 4
+    enabled: true
+
+  # ── AI / LLM tools & models ──────────────────────────────────────────────
+  - name: "The Batch (DeepLearning.AI)"
+    url: "https://www.deeplearning.ai/the-batch/feed/"
+    type: rss
+    category: ai
+    quality: 5
+    enabled: true
+
+  - name: "Simon Willison's Weblog"
+    url: "https://simonwillison.net/atom/everything/"
+    type: rss
+    category: ai
+    quality: 5
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    type: rss
+    category: ai
+    quality: 5
+    enabled: true
+
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    type: rss
+    category: ai
+    quality: 5
+    enabled: true
+
+  - name: "Anthropic News"
+    url: "https://www.anthropic.com/rss.xml"
+    type: rss
+    category: ai
+    quality: 5
+    enabled: true
+
+  - name: "Google AI Blog"
+    url: "https://blog.google/technology/ai/rss/"
+    type: rss
+    category: ai
+    quality: 4
+    enabled: true
+
+  # ── Software Engineering ─────────────────────────────────────────────────
+  - name: "The Pragmatic Engineer"
+    url: "https://newsletter.pragmaticengineer.com/feed"
+    type: rss
+    category: swe
+    quality: 5
+    enabled: true
+
+  - name: "Martin Fowler Blog"
+    url: "https://martinfowler.com/feed.atom"
+    type: rss
+    category: swe
+    quality: 5
+    enabled: true
+
+  - name: "GitHub Blog – Engineering"
+    url: "https://github.blog/category/engineering/feed/"
+    type: rss
+    category: swe
+    quality: 4
+    enabled: true
+
+  - name: "Stack Overflow Blog"
+    url: "https://stackoverflow.blog/feed/"
+    type: rss
+    category: swe
+    quality: 4
+    enabled: true
+
+  # ── DevOps / Platform Engineering ────────────────────────────────────────
+  - name: "CNCF Blog"
+    url: "https://www.cncf.io/feed/"
+    type: rss
+    category: devops
+    quality: 5
+    enabled: true
+
+  - name: "Kubernetes Blog"
+    url: "https://kubernetes.io/feed.xml"
+    type: rss
+    category: devops
+    quality: 5
+    enabled: true
+
+  - name: "Last Week in AWS"
+    url: "https://www.lastweekinaws.com/feed/"
+    type: rss
+    category: devops
+    quality: 4
+    enabled: true
+
+  # ── Security ─────────────────────────────────────────────────────────────
+  - name: "Krebs on Security"
+    url: "https://krebsonsecurity.com/feed/"
+    type: rss
+    category: security
+    quality: 5
+    enabled: true
+
+  - name: "Bruce Schneier – Schneier on Security"
+    url: "https://www.schneier.com/feed/atom/"
+    type: rss
+    category: security
+    quality: 5
+    enabled: true
+
+  - name: "Trail of Bits Blog"
+    url: "https://blog.trailofbits.com/feed/"
+    type: rss
+    category: security
+    quality: 5
+    enabled: true
+
+  - name: "SANS Internet Storm Center"
+    url: "https://isc.sans.edu/rssfeed_full.xml"
+    type: rss
+    category: security
+    quality: 4
+    enabled: true
+
+  # ── Podcasts ─────────────────────────────────────────────────────────────
+  - name: "This Week in Tech (TWiT)"
+    url: "https://feeds.twit.tv/twit.xml"
+    type: rss
+    category: podcast
+    quality: 4
+    enabled: true
+
+  - name: "Changelog – Software Dev Topics"
+    url: "https://changelog.com/podcast/feed"
+    type: rss
+    category: podcast
+    quality: 5
+    enabled: true
+
+  - name: "Software Engineering Daily"
+    url: "https://softwareengineeringdaily.com/feed/podcast/"
+    type: rss
+    category: podcast
+    quality: 4
+    enabled: true
+
+  - name: "Lex Fridman Podcast"
+    url: "https://lexfridman.com/feed/podcast/"
+    type: rss
+    category: podcast
+    quality: 3
+    enabled: true
+
+  - name: "Darknet Diaries"
+    url: "https://feeds.megaphone.fm/darknetdiaries"
+    type: rss
+    category: podcast
+    quality: 5
+    enabled: true

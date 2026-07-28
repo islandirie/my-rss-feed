@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: "my-rss-feed — Daily Tech Digest"
+description: "Daily curated top-10 from AI, DevOps, Security & SWE"
+show_downloads: false
