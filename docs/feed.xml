@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-07-29T07:54:08Z</updated>
+  <updated>2026-07-30T07:47:48Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-07-30:daily-digest</id>
+    <title>Daily Digest 2026-07-30: How enabling two settings tripled our scores on th; Adding a custom MCP server to Claude and ChatGPT; How the controller-runtime Cache Actually Works, a</title>
+    <updated>2026-07-30T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-07-30.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;How enabling two settings tripled our scores on the ARC-AGI-3 benchmark&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Adding a custom MCP server to Claude and ChatGPT&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How GPT-5.6 fuses frontier intelligence with frontier efficiency&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Measuring the Tendency of AI Agents to Go Rogue&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: a Rust coding agent that is compatible with Claude Code plugins/skills&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/KonghaYao/peri"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: How we use AI agents for support in an open-source project (Seafile)&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://news.ycombinator.com/item?id=49105561"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/coderredlab/runNburn"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tame Dependabot: Group your updates, slow the cadence, keep security fast&lt;/b&gt; — Supply chain risks are often overlooked until it's too late — track these proactively. &lt;a href="https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-07-29:daily-digest</id>
-    <title>Daily Digest 2026-07-29: Show HN: FOSS sandbox platform for zero trust remo; Subaru Wins CNCF End User Case Study Contest for A; CNCF Announces Schedule for Debut Observability Su</title>
+    <title>Daily Digest 2026-07-29: </title>
     <updated>2026-07-29T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-07-29.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: FOSS sandbox platform for zero trust remote access without secrets&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://github.com/octelium/cordium"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;CNCF Announces Schedule for Debut Observability Summit Europe&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Scientific computing in the age of agentic AI&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://openai.com/index/scientific-computing-agentic-ai"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Myx – Spotify player for the terminal, With reactive themes&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/HaseebKhalid1507/Myx"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Measuring LLMs’ Ability to Perform Cryptanalysis&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: I run 30B 22tok/s, 109tok/s not novel,6GB/16GB RAM overcoming llama.cpp&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/FedericoTs/quantprobe"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How building software is changing at Anthropic&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/inside-anthropic"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Gemini API Managed Agents: 3.6 Flash, hooks, and more&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-07-28:daily-digest</id>
