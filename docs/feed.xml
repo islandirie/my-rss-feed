@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-01T07:44:09Z</updated>
+  <updated>2026-08-02T07:45:33Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-02:daily-digest</id>
+    <title>Daily Digest 2026-08-02: July 2026 newsletter; Show HN: An SDK to build apps for Kobo eReaders; Show HN: CleanSlate – an open-source coding agent </title>
+    <updated>2026-08-02T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-02.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;July 2026 newsletter&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: An SDK to build apps for Kobo eReaders&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/BandarLabs/Cobalt"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: CleanSlate – an open-source coding agent for the IDE, CLI, and SDK&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/TheWariend/CleanSlate"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Nuking the crap Claude left in the codebase – CCN&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/jonhardwick-spec/ccn"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;deepseek-ai/DeepSeek-V4-Flash-0731&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-agent 0.4a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;zipdump.py: Metadata Encoding, (Fri, Jul 31st)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33202"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://isc.sans.edu/diary/rss/33208"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Conductor Developer&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Don’t stop early: Case-folding source code at memory speed&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-01:daily-digest</id>
-    <title>Daily Digest 2026-08-01: Stateless MCP has recaptured my interest (and insp; Anthropic’s Opus 5 Is Better at Resisting Prompt I; llm-mcp-client 0.1a0</title>
+    <title>Daily Digest 2026-08-01: </title>
     <updated>2026-08-01T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-01.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Anthropic’s Opus 5 Is Better at Resisting Prompt Injection&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm-mcp-client 0.1a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;smevals - a small eval suite for evaluating models, prompts, and harnesses&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: One no-subscriptions online search for all your agent needs&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://news.ycombinator.com/item?id=49131426"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Kubernetes v1.37 Sneak Peek&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Agents that learn and remember. On your machine, under your control&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/EXXETA/exxperts"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33206"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Advancing the price-performance frontier with GPT‑5.6&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-07-31:daily-digest</id>
