@@ -4,20 +4,28 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-09T07:21:04Z</updated>
+  <updated>2026-08-10T07:30:50Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-10:daily-digest</id>
+    <title>Daily Digest 2026-08-10: GitHub Models is now retired; Show HN: SynapsCLI – lightweight agent runtime in ; Quoting OpenClaw</title>
+    <updated>2026-08-10T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-10.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;GitHub Models is now retired&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: SynapsCLI – lightweight agent runtime in Rust, control an agent swarm&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/HaseebKhalid1507/SynapsCLI"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting OpenClaw&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Memcode AI goes open source with Claude Code inspired coding agent&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/memcode-ai/memcode"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Albedo – single-file listenable document database in Zig&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/klirix/albedo"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Claude Opus 5 system prompt&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1096: Fluff for Armor - Flock Cameras, ALPR Abuse, &amp;amp; DNA Collecting&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1096"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, August 10th, 2026 https://isc.sans.edu/podcastdetail/10044, (Mon, Aug 10th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33228"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-09:daily-digest</id>
-    <title>Daily Digest 2026-08-09: Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to ; Show HN: Try Benzi – A coding harness/agent beatin; Auto mode is now the default in Claude Code for Pr</title>
+    <title>Daily Digest 2026-08-09: </title>
     <updated>2026-08-09T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-09.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/tohid4n/qwen3.8-max-local-coding"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Try Benzi – A coding harness/agent beating Claude Code itself on Sonnet&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://benzi.fly.dev/about"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Auto mode is now the default in Claude Code for Pro, Max, and Team plans&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: OpsCart – Read-only Kubernetes triage with incident history&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://github.com/opscart/opscart-k8s-watcher"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Now we have a timeline of the OpenAI accidental attack against Hugging Face&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Now we have a timeline of the OpenAI accidental attack against Hugging Face&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Linux Shell Forensic: Let&amp;amp;#x3f;s Dive Into Atuin&amp;amp;#x21;, (Fri, Aug 7th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33226"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-08:daily-digest</id>
