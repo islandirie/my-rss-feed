@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-12T07:30:20Z</updated>
+  <updated>2026-08-13T07:30:24Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-13:daily-digest</id>
+    <title>Daily Digest 2026-08-13: Using Gemma4 with Ollama - Testing File Hash Analy; Show HN: Woxi - Open-source Mathematica / Wolfram ; alchemy-utils 0.1a0</title>
+    <updated>2026-08-13T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-13.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://isc.sans.edu/diary/rss/33242"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://woxi.ad-si.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;alchemy-utils 0.1a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/12/alchemy-utils/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Agent Memory Leaderboard – first public results for AI memory systems&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://agentmemoryleaderboard.ai/leaderboard/academic/textual"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: I'm tired replying my social media visitors, I let AI agent handle it&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.agle.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Advancing AI model interoperability with Docker and ModelPack&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stop being skeptical about AI for development with Charity Majors&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI Genie in the Wild&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;DeepSeek V4 Pro 0813 (on OpenRouter)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Florian Herrengt&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/12/florian-herrengt/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-12:daily-digest</id>
-    <title>Daily Digest 2026-08-12: Show HN: Lethe is a portable identity layer – user; Show HN: Pragma – Stop copying context between AI ; Microsoft Patch Tuesday August 2026, (Tue, Aug 11t</title>
+    <title>Daily Digest 2026-08-12: </title>
     <updated>2026-08-12T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-12.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Lethe is a portable identity layer – user consented&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://lethe-ai.vercel.app"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Pragma – Stop copying context between AI agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/pqpo/pragma"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33236"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Kernelspace- interactive course on systems programming for LLM Serving&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://kernelspace.naigap.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Stealing Reasoning Traces from Proprietary LLM APIs&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How Trail of Bits helps verify the integrity of your Signal chats&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;CNCF Announces Graduation of Cloud Native Buildpacks, Advancing the Standard for Container Builds&lt;/b&gt; — Supply chain risks are often overlooked until it's too late — track these proactively. &lt;a href="https://www.cncf.io/announcements/2026/08/11/cncf-announces-graduation-of-cloud-native-buildpacks-advancing-the-standard-for-container-builds/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A practical guide to solving when zero+zero=two in mesh observability&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;There are no lossless transformations of natural-language text&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TDD inside the agent loop - theater or actual value?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-11:daily-digest</id>
