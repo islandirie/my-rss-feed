@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-14T07:30:08Z</updated>
+  <updated>2026-08-15T07:10:48Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-15:daily-digest</id>
+    <title>Daily Digest 2026-08-15: The Pulse: Meta’s self-inflicted resignation-wave; Show HN: I spent 3 months making desktop automatio; Show HN: ThoughtDAG – An editable context graph fo</title>
+    <updated>2026-08-15T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-15.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;The Pulse: Meta’s self-inflicted resignation-wave&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: I spent 3 months making desktop automation stop lying to AI agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/lahfir/agent-desktop/tree/main"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: ThoughtDAG – An editable context graph for LLM conversations&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://chenxiachan.github.io/thoughtdag/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Riffn. An instant voice link with your AI agents and local models&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://riffn.io/how-riffn-works/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Don't classify. Hallucinate!&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Searching for the Colossal Squid&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Northern Gannet&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/15/sighting-391300422/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-14:daily-digest</id>
-    <title>Daily Digest 2026-08-14: LLMOps and platform engineering: Who should own th; llm-gemini 0.33; The builder’s guide to GPT‑5.6</title>
+    <title>Daily Digest 2026-08-14: </title>
     <updated>2026-08-14T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-14.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;LLMOps and platform engineering: Who should own the AI pipeline?&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm-gemini 0.33&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/13/llm-gemini/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The builder’s guide to GPT‑5.6&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/builders-guide-to-gpt-5-6"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Rebuilding the Cloud for AI Agent Code&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://softwareengineeringdaily.com/podcasts/rebuilding-the-cloud-for-ai-agent-code/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Control Claude Code, Codex, Pi and Gemini CLI from Telegram&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/choiyounggi/cliclaw"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/previewing-ultrafast"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Solving integration woes with a hackathon&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Agents that run your finances&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://blaze.money"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Lightweight Dragonfly Deployment: P2P Distribution Without the Database Stack&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-13:daily-digest</id>
