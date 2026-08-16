@@ -4,23 +4,27 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-15T07:10:48Z</updated>
+  <updated>2026-08-16T07:12:29Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-16:daily-digest</id>
+    <title>Daily Digest 2026-08-16: Show HN: Spread – Real-Time New Zealand Supermarke; CORS Chat; Show HN: Widen, a native Postgres GUI using Apple'</title>
+    <updated>2026-08-16T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-16.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://spread.butterup.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CORS Chat&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/15/cors-chat/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Widen, a native Postgres GUI using Apple's on-device LLM&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/betocmn/widen"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Snafu: Agentic flow to help you with "naming things" in source code&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/sebastiancarlos/snafu"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;No Dumb Questions: What is AI context architecture? Why not just build your own?&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who’s Tracking You? Use This New Service to Find Out&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Upcoming Speaking Engagements&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-15:daily-digest</id>
-    <title>Daily Digest 2026-08-15: The Pulse: Meta’s self-inflicted resignation-wave; Show HN: I spent 3 months making desktop automatio; Show HN: ThoughtDAG – An editable context graph fo</title>
+    <title>Daily Digest 2026-08-15: </title>
     <updated>2026-08-15T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-15.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;The Pulse: Meta’s self-inflicted resignation-wave&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-metas-self-inflicted-resignation"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: I spent 3 months making desktop automation stop lying to AI agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/lahfir/agent-desktop/tree/main"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: ThoughtDAG – An editable context graph for LLM conversations&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://chenxiachan.github.io/thoughtdag/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Riffn. An instant voice link with your AI agents and local models&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://riffn.io/how-riffn-works/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Don't classify. Hallucinate!&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Searching for the Colossal Squid&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Northern Gannet&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Aug/15/sighting-391300422/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-14:daily-digest</id>
