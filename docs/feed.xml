@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-27T10:14:21Z</updated>
+  <updated>2026-08-28T10:29:45Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-28:daily-digest</id>
+    <title>Daily Digest 2026-08-28: Kubernetes v1.37: Metrics API graduates to stable; Building an AI factory on Kubernetes; Making Your Data Ready for Agentic AI</title>
+    <updated>2026-08-28T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-28.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Kubernetes v1.37: Metrics API graduates to stable&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Building an AI factory on Kubernetes&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Making Your Data Ready for Agentic AI&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;When you keep AI Lean, you keep AI correct&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Breaking Claude Code Opus 5 Auto Mode&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Two Alleged ‘TeamPCP’ Hackers Arrested in Australia&lt;/b&gt; — Supply chain risks are often overlooked until it's too late — track these proactively. &lt;a href="https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Beckon, distinct sounds for what your AI coding agent needs&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/Isa1asN/beckon"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Rafter – an MCP server that shares one team's memory, skills and agents&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://heyrafter.xyz/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Puppetflow a free browser automation platform&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://github.com/puppetflow/puppetflow"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Supporting Thailand’s next generation of AI startups&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/supporting-next-generation-ai-startups-thailand"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-27:daily-digest</id>
-    <title>Daily Digest 2026-08-27: Show HN: I built an agent-first productivity bridg; LLM-Based Social Engineering Scams; Show HN: Reconstruct distributed LLM training trac</title>
+    <title>Daily Digest 2026-08-27: </title>
     <updated>2026-08-27T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-27.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: I built an agent-first productivity bridge for all your agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.taskshell.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;LLM-Based Social Engineering Scams&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Reconstruct distributed LLM training traces&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://trace.vladsavinov.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Kubernetes v1.37: Garhwal&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Contextual – local codebase memory for AI coding agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://contextuallabs.dev"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Qwen3.8-Flash-Next&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://simonwillison.net/2026/Aug/26/qwen38-flash-next/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TypeScript 7 and What Comes Next&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://softwareengineeringdaily.com/podcasts/typescript-7-and-what-comes-next/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp;amp; Linux&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://lexfridman.com/dhh-2/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=dhh-2"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33290"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-26:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-07-30: </title>
     <updated>2026-07-30T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-07-30.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-07-29:daily-digest</id>
-    <title>Daily Digest 2026-07-29: </title>
-    <updated>2026-07-29T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-07-29.html"/>
     <content type="html"></content>
   </entry>
 </feed>
