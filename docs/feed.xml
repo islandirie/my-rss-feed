@@ -4,23 +4,26 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-08-29T07:04:10Z</updated>
+  <updated>2026-08-30T07:04:51Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-08-30:daily-digest</id>
+    <title>Daily Digest 2026-08-30: Show HN: VibeGuard – security linter for AI-genera; Introducing Hy4 Preview; Show HN: I might have built the best Linear altern</title>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-30.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: VibeGuard – security linter for AI-generated code&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/zeroFhacker/vibeguard"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Introducing Hy4 Preview&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Aug/29/hy4/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: I might have built the best Linear alternative&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://github.com/croffasia/itsaplan"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Open source dataset cleaner for JSONL outputs&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://pypi.org/project/dataset-cleaner-cli/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI Doesn’t Mean the End of Mathematics—at Least Not Yet&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-08-29:daily-digest</id>
-    <title>Daily Digest 2026-08-29: Show HN: MicroVM daemon, deploy any Docker image; Kubernetes v1.37: Pod Certificates and Cluster Tru; Your Kubernetes platform is ready for containers. </title>
+    <title>Daily Digest 2026-08-29: </title>
     <updated>2026-08-29T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-29.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: MicroVM daemon, deploy any Docker image&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://news.ycombinator.com/item?id=49485801"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Your Kubernetes platform is ready for containers. Is it ready for AI?&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Just a rumour of a bug is enough to find a security exploit these days&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: SlideX – Open-source presentations with MDX&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.slidexdeck.com/en/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Truckload of Squid Spills in Rhode Island&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Leiolai, AI that pays users for the compute their devices provide&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://leiolai.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Pulse: Meta wanted to reduce teams by 60% because of AI&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Our decision on Cursor following its acquisition by SpaceX&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;3 new ways to plan and book travel in Search&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-08-28:daily-digest</id>
@@ -216,13 +219,6 @@
     <title>Daily Digest 2026-08-01: </title>
     <updated>2026-08-01T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-01.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-07-31:daily-digest</id>
-    <title>Daily Digest 2026-07-31: </title>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-07-31.html"/>
     <content type="html"></content>
   </entry>
 </feed>
