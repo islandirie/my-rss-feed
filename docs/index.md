@@ -9,6 +9,7 @@ security news, SWE insights and podcasts.
 
 ## Recent Digests
 
+- [Saturday, September 5 2026](daily/2026-09-05.md)
 - [Friday, September 4 2026](daily/2026-09-04.md)
 - [Thursday, September 3 2026](daily/2026-09-03.md)
 - [Wednesday, September 2 2026](daily/2026-09-02.md)
@@ -38,7 +39,6 @@ security news, SWE insights and podcasts.
 - [Sunday, August 9 2026](daily/2026-08-09.md)
 - [Saturday, August 8 2026](daily/2026-08-08.md)
 - [Friday, August 7 2026](daily/2026-08-07.md)
-- [Thursday, August 6 2026](daily/2026-08-06.md)
 
 ---
 

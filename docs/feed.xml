@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-09-04T07:05:03Z</updated>
+  <updated>2026-09-05T07:04:48Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-09-05:daily-digest</id>
+    <title>Daily Digest 2026-09-05: numbat - AI agent observability, (Fri, Sep 4th); AI Coding Agents Are Installing Unknown/Untrusted ; Show HN: Rubato – Retro-Mac desk device mirrors AI</title>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-05.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;numbat - AI agent observability, (Fri, Sep 4th)&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://isc.sans.edu/diary/rss/33312"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/lovaxi/Rubato_Device"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;OpenAI's rogue agents were caught communicating via public wikis&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Moadim.io – A scheduler for agents&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://moadim.io/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kubernetes isn’t new, but AI makes It scary again&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How to build a secure-by-default AI coding agent&lt;/b&gt; — Supply chain risks are often overlooked until it's too late — track these proactively. &lt;a href="https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Free macOS App to import photos from memory card with file naming rules&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/jianfenglin-git/photo-batch-importer"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Pelican comparison grid for Astra is pretty interesting&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/4/astra-pelicans/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-09-04:daily-digest</id>
-    <title>Daily Digest 2026-09-04: Show HN: Building AI agents client-side JavaScript; August newsletter is out; Join OSPOlogy + OSPO Summit China 2026 in Shanghai</title>
+    <title>Daily Digest 2026-09-04: </title>
     <updated>2026-09-04T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-04.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Building AI agents client-side JavaScript&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://news.ycombinator.com/item?id=49557409"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;August newsletter is out&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/4/august-newsletter/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Join OSPOlogy + OSPO Summit China 2026 in Shanghai&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Agentray, a macOS agent whose interface is a folder&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://news.ycombinator.com/item?id=49555446"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;GPT‑6 Astra&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/3/gpt6-astra/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Elevating security, control, and accessibility: Stack Internal 2026.6&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Kubernetes v1.37: DRA Updates&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Forking Cal.com to closed source (Interview)&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://changelog.com/podcast/685"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Moving Beyond RAG with Precomputed Context&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://softwareengineeringdaily.com/podcasts/moving-beyond-rag-with-precomputed-context/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-09-03:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-08-07: </title>
     <updated>2026-08-07T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-07.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-08-06:daily-digest</id>
-    <title>Daily Digest 2026-08-06: </title>
-    <updated>2026-08-06T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-06.html"/>
     <content type="html"></content>
   </entry>
 </feed>
