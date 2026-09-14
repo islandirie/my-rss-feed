@@ -4,22 +4,28 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-09-13T07:04:37Z</updated>
+  <updated>2026-09-14T07:14:33Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-09-14:daily-digest</id>
+    <title>Daily Digest 2026-09-14: Show HN: Replay – Audit silent prompt cache misses; Show HN: TrackLLM: Are the LLM APIs you rely on st; Show HN: Anti-AI-slop: a 4 staged skill to detect </title>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-14.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://replay.doctor/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: TrackLLM: Are the LLM APIs you rely on stable?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.trackllm.net/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Anti-AI-slop: a 4 staged skill to detect and remove any AI writing slop&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/misbahsy/anti-ai-slop"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1101: Adversarial Clothing - The Dramatic Calls to Regulate Artificial Intelligence&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1101"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;commit-rewriter 0.1&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Sep/14/commit-rewriter/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;shot-scraper 1.12&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Sep/13/shot-scraper/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Generating running routes with GPT-6 Astra and ChatGPT Work&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/12/astra-running-routes/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33334"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-09-13:daily-digest</id>
-    <title>Daily Digest 2026-09-13: Quoting huggingface.co/security.txt; Rapidly scaling online storage to serve over 1 bil; Soft-deprecating re.match()</title>
+    <title>Daily Digest 2026-09-13: </title>
     <updated>2026-09-13T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-13.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Quoting huggingface.co/security.txt&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://simonwillison.net/2026/Sep/11/hugging-face-security/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Rapidly scaling online storage to serve over 1 billion ChatGPT users&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://openai.com/index/scaling-storage-one-billion-users-part-one"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Soft-deprecating re.match()&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Forma ONNX Graph Viewer and Editor&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/Hussain004/forma"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Astah Pro MCP – Enabling AI-Powered UML Modeling&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/takaakit/astah-pro-mcp"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://withspecific.com/benchmarks/real-swe"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My Talk at DEF CON&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;AI cybersecurity is a cat and mouse game&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Cliff Stoll’s DEF CON Talk&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-09-12:daily-digest</id>
@@ -215,13 +221,6 @@
     <title>Daily Digest 2026-08-16: </title>
     <updated>2026-08-16T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-16.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-08-15:daily-digest</id>
-    <title>Daily Digest 2026-08-15: </title>
-    <updated>2026-08-15T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-15.html"/>
     <content type="html"></content>
   </entry>
 </feed>
