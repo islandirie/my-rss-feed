@@ -42,6 +42,96 @@
       "url": "https://example.com/ebpf-k8s",
       "tags": ["ebpf", "kubernetes", "observability", "security"],
       "added": "2024-07-01"
+    },
+    {
+      "title": "Hacker News front-page discussions",
+      "url": "https://news.ycombinator.com/",
+      "tags": ["hacker-news", "programming", "startups", "tech-news"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Techmeme daily tech news",
+      "url": "https://www.techmeme.com/",
+      "tags": ["techmeme", "tech-news", "industry", "startups"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Ars Technica deep tech reporting",
+      "url": "https://arstechnica.com/",
+      "tags": ["ars-technica", "tech-news", "engineering", "security"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "The Verge tech coverage",
+      "url": "https://www.theverge.com/tech",
+      "tags": ["the-verge", "consumer-tech", "platforms", "tech-news"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "DEV Community engineering posts",
+      "url": "https://dev.to/",
+      "tags": ["dev-community", "programming", "tutorials", "swe"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "freeCodeCamp developer tutorials",
+      "url": "https://www.freecodecamp.org/news/",
+      "tags": ["freecodecamp", "programming", "tutorials", "javascript"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Lobsters programming threads",
+      "url": "https://lobste.rs/",
+      "tags": ["lobsters", "programming", "opensource", "swe"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Reddit programming discussion links",
+      "url": "https://www.reddit.com/r/programming/",
+      "tags": ["reddit-programming", "programming", "discussion", "tech-news"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "FlowingData visualization stories",
+      "url": "https://flowingdata.com/",
+      "tags": ["flowingdata", "data-visualization", "analytics", "storytelling"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Information is Beautiful visual explainers",
+      "url": "https://informationisbeautiful.net/",
+      "tags": ["information-is-beautiful", "data-visualization", "infographics", "design"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Hugging Face model releases and tutorials",
+      "url": "https://huggingface.co/blog",
+      "tags": ["hugging-face", "llm", "open-source", "ai"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "This Week in Tech podcast episodes",
+      "url": "https://twit.tv/shows/this-week-in-tech",
+      "tags": ["twit", "podcast", "tech-news", "industry"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Security Now podcast archive",
+      "url": "https://twit.tv/shows/security-now",
+      "tags": ["security-now", "podcast", "security", "infosec"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "Exploit Database vulnerability research",
+      "url": "https://www.exploit-db.com/",
+      "tags": ["exploit-db", "vulnerabilities", "security", "research"],
+      "added": "2026-07-28"
+    },
+    {
+      "title": "CTFtime upcoming competitions",
+      "url": "https://ctftime.org/",
+      "tags": ["ctftime", "ctf", "security", "competitions"],
+      "added": "2026-07-28"
     }
   ]
 }
