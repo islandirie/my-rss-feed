@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-09-18T07:05:43Z</updated>
+  <updated>2026-09-19T07:04:55Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-09-19:daily-digest</id>
+    <title>Daily Digest 2026-09-19: Show HN: An OSS Python dependency scanner for expl; Are AIs Still Struggling with CAPTCHAs?; Show HN: CRT – a local code review tool for agenti</title>
+    <updated>2026-09-19T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-19.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: An OSS Python dependency scanner for exploited, unmaintained packages&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/binuka200/package-doctor"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Are AIs Still Struggling with CAPTCHAs?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: CRT – a local code review tool for agentic development&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/imron/crt"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Gemini Hacked Three Companies in First Known Breakout by Google’s AI&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Thariq Shihipar&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/18/thariq-shihipar/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Seal – Letters and passwords that open for your family after you die&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/jasonepage/Seal"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Auditing in the age of (good enough) AI&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Note on 18th September 2026&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;OpenTelemetry everywhere: Migrating a metrics platform at scale&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The AI magic words&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/09/17/the-ai-magic-words/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-09-18:daily-digest</id>
-    <title>Daily Digest 2026-09-18: AI Skills with Matt Pocock; How To Write With An LLM; Show HN: Timeline, a team project planner with a f</title>
+    <title>Daily Digest 2026-09-18: </title>
     <updated>2026-09-18T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-18.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;AI Skills with Matt Pocock&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How To Write With An LLM&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Timeline, a team project planner with a fast canvas Gantt view&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/vakahnke/Timeline"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Concat: the open-source CapCut replacement.&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/jub0t/Concat"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;I don't like LLMs&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://martinfowler.com/articles/2026-dont-like-llms.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Be alert: targeted attacks on prominent Rustaceans&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/marketplace/actions/vigil-pr-scanner"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How Candidates Could Use AI for Good&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33352"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Self-generated prompt injections in compaction summaries&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Sep/17/compaction-summaries/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-09-17:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-08-21: </title>
     <updated>2026-08-21T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-21.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-08-20:daily-digest</id>
-    <title>Daily Digest 2026-08-20: </title>
-    <updated>2026-08-20T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-20.html"/>
     <content type="html"></content>
   </entry>
 </feed>
