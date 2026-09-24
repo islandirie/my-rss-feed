@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-09-23T07:07:18Z</updated>
+  <updated>2026-09-24T07:07:39Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-09-24:daily-digest</id>
+    <title>Daily Digest 2026-09-24: Ringg’s AI agents resolve up to 65% of customer ca; Show HN: Chatlo – an iOS-native AI agent, now with; llm 0.36</title>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-24.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Ringg’s AI agents resolve up to 65% of customer calls with OpenAI&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/ringg"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Chatlo – an iOS-native AI agent, now with Jev&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;llm 0.36&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/22/llm/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Design Engineering with Maggie Appleton&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Gemini 3.8 TTS Playground&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Linux support is coming to Snapdragon X2 Series&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: SocatUI A task manager for Socat tunnels&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/esurharun/socatui/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Which hat am I wearing right now?&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;One URL, Three Different Tricks, (Thu, Sep 24th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33366"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Rendering huge pull requests in the GitHub Copilot app&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-09-23:daily-digest</id>
-    <title>Daily Digest 2026-09-23: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new ; How will AI change operating systems? Part 2: Wind; llm-typesafe 0.1a0</title>
+    <title>Daily Digest 2026-09-23: </title>
     <updated>2026-09-23T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-23.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How will AI change operating systems? Part 2: Windows&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://newsletter.pragmaticengineer.com/p/windows-and-ai"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm-typesafe 0.1a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/22/llm-typesafe/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm-anthropic 0.29&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Sep/22/llm-anthropic/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Visually orchestrate Claude Code AI agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/rondoflow/rondoflow"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://foxscript.org/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: LinearSolveBench, interesting new benchmark to discover linear solvers&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://www.autodidakt.ai/linear-solve-bench"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Spotlight on SIG Apps&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Macfinger ClickFix campaign, (Tue, Sep 22nd)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33360"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-09-22:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-08-26: </title>
     <updated>2026-08-26T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-26.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-08-25:daily-digest</id>
-    <title>Daily Digest 2026-08-25: </title>
-    <updated>2026-08-25T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-08-25.html"/>
     <content type="html"></content>
   </entry>
 </feed>
