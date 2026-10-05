@@ -4,22 +4,27 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-04T09:03:21Z</updated>
+  <updated>2026-10-05T07:26:08Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-05:daily-digest</id>
+    <title>Daily Digest 2026-10-05: Show HN: Ramen – self-hosted multi-zone MCP server; Show HN: Recursant, the agent-aware model router b; TWiT 1104: Real Gs Move in Silence Like Lasagna - </title>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-05.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Ramen – self-hosted multi-zone MCP server for Kubernetes(Rust &amp;amp; Python)&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/bkraad47/ramen"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Recursant, the agent-aware model router built for hybrid workloads&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/ajensenwaud/recursant/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1104: Real Gs Move in Silence Like Lasagna - An AI Data Center in Space?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1104"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fragments: October 4&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://martinfowler.com/fragments/2026-10-04.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TTY Logs and the Data it Captures, (Sun, Oct 4th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33396"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://huggingface.co/sriram1983007/SRA-RiskGate-4B"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33398"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-04:daily-digest</id>
-    <title>Daily Digest 2026-10-04: Show HN: Artbucket – OSS brand assets and portals ; September sponsors-only newsletter; Show HN: jpm – a JavaScript package manager in Rus</title>
+    <title>Daily Digest 2026-10-04: </title>
     <updated>2026-10-04T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-04.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Artbucket – OSS brand assets and portals for humans and AI agents&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://github.com/pwnera/artbucket"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;September sponsors-only newsletter&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/3/newsletter/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://getjpm.sh/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Docker Desktop Alternative for WSLC in Rust&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/ricardoborges/rcdesktop"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;We're going to need default hard budget caps on pretty much everything&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;User Agent Strings Curiosities, (Sun, Oct 4th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33394"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Agent Said It Was Done. The Database Disagreed.&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/microsoft/thinkingbox"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-03:daily-digest</id>
@@ -215,13 +220,6 @@
     <title>Daily Digest 2026-09-06: </title>
     <updated>2026-09-06T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-06.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-05:daily-digest</id>
-    <title>Daily Digest 2026-09-05: </title>
-    <updated>2026-09-05T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-05.html"/>
     <content type="html"></content>
   </entry>
 </feed>
