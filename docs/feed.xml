@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-09T07:14:48Z</updated>
+  <updated>2026-10-10T07:08:58Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-10:daily-digest</id>
+    <title>Daily Digest 2026-10-10: Join Platform Engineering Day at KubeCon + CloudNa; Who owns NIS2 and DORA on a Kubernetes platform te; Deno is joining Cloudflare</title>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-10.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Who owns NIS2 and DORA on a Kubernetes platform team&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Deno is joining Cloudflare&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;FBI Arrests Founder of Ransomware Negotiation Firm&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;From zero to NanoClaw (Interview)&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://changelog.com/podcast/686"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: tgv: Genome viewer for you and your agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/zeqianli/tgv"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Pollo AI turns creative ideas into campaigns with OpenAI&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/pollo-ai"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: MCP to measure human arm in Blender&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/hpdkhoa/poselab-mcp"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A green exit code is not evidence that the work happened&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Claude Opus 5.5 Video prompts and skills&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.reclip.io/claude-opus-5-5-video-prompts"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-09:daily-digest</id>
-    <title>Daily Digest 2026-10-09: Reconstructing AI Agent Activity: Two New Scripts ; ttok 1.0; ttok 0.4</title>
+    <title>Daily Digest 2026-10-09: </title>
     <updated>2026-10-09T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-09.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://isc.sans.edu/diary/rss/33410"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ttok 1.0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/9/ttok/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ttok 0.4&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://simonwillison.net/2026/Oct/8/ttok/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Don’t give AI agents root. Make them propose the next system state.&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Taking a look under your agent’s hood&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Sibuna an open source web application firewall with proof of work&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/insanai/sibuna"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Run Claude Frontend with Non-Anthropic Models&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/mkornreich/llm-desktop-electron"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Wy – a Rust terminal tool for understanding AI-generated code&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/grandimam/wy"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Meshery becomes a CNCF Incubating project&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-08:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-09-11: </title>
     <updated>2026-09-11T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-11.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-10:daily-digest</id>
-    <title>Daily Digest 2026-09-10: </title>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-10.html"/>
     <content type="html"></content>
   </entry>
 </feed>
