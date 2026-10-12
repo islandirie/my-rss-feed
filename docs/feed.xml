@@ -4,23 +4,25 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-11T07:10:36Z</updated>
+  <updated>2026-10-12T07:29:18Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-12:daily-digest</id>
+    <title>Daily Digest 2026-10-12: Show HN: Foretype: type on remote machines at loca; Show HN: Plimsoll, a self-hosted sandbox for code ; TWiT 1105: Agents Gone Wild - Windows' New Surface</title>
+    <updated>2026-10-12T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-12.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Foretype: type on remote machines at local speed&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/itsfabioroma/foretype"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/plimsollmark/plimsoll"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1105: Agents Gone Wild - Windows' New Surface Laptop Ultra &amp;amp; RTX Spark Dev Box!&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1105"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Apple Docs 2.0 MCP – Apple's developer docs and WWDC for coding agents&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/mishafyi/Apple-Docs-2.0-MCP"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33416"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-11:daily-digest</id>
-    <title>Daily Digest 2026-10-11: Python 3.15.0 added to actions/python-versions; Show HN: ManimGX – Manim's API on a Rust/wgpu engi; Show HN: GSD Task Manager – an MCP server that giv</title>
+    <title>Daily Digest 2026-10-11: </title>
     <updated>2026-10-11T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-11.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Python 3.15.0 added to actions/python-versions&lt;/b&gt; — Automation and IaC improvements that could directly reduce toil in your delivery pipeline. &lt;a href="https://simonwillison.net/2026/Oct/10/python-actions/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://github.com/academa-labs/manimgx"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/vscarpenter/gsd-task-manager"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Dewey: a connectome-driven fruit fly for your macOS menu bar&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://github.com/JorenSix/Dewey"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Dwarf Fortress uses version control now&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/11/dwarf-fortress/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A new feature for my blog, built using my voice&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/9/built-using-my-voice/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Making the Golden Kubestronaut a little more golden&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Why TLP should not replace your internal information classification, (Sat, Oct 10th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33414"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: I Caught a Squid&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A Treatise on Model Oriented Programming Languages&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-10:daily-digest</id>
@@ -216,13 +218,6 @@
     <title>Daily Digest 2026-09-13: </title>
     <updated>2026-09-13T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-13.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-12:daily-digest</id>
-    <title>Daily Digest 2026-09-12: </title>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-12.html"/>
     <content type="html"></content>
   </entry>
 </feed>
