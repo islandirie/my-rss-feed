@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-14T07:09:22Z</updated>
+  <updated>2026-10-15T07:09:30Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-15:daily-digest</id>
+    <title>Daily Digest 2026-10-15: Show HN: Real Design Benchmark – can you tell AI d; Show HN: MoneySwitch – AI agents pay x402 APIs in ; Why Is My Kubernetes Job Still Pending? Tracing Ku</title>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-15.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Real Design Benchmark – can you tell AI designs from real products?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.realdesignbenchmark.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: MoneySwitch – AI agents pay x402 APIs in USDC (self-hosted)&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/dongsheng123132/moneyswitch"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Visual Scripting for Golang&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://symphony.q3k.app"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tree Appreciator&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/14/tree-appreciator/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The EU’s next chapter in AI is agentic&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Uber’s AI infra, from the inside&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Amp puts AI agents to work beyond code with OpenAI models&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/amp-beyond-coding"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;From 2,500 requests to 24: Rebuilding star history without the stargazers&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33420"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-14:daily-digest</id>
-    <title>Daily Digest 2026-10-14: Show HN: Evaluate and improve your agent steering; llm-gemini 0.35; Microsoft Patches More Than 1,400 Security Flaws</title>
+    <title>Daily Digest 2026-10-14: </title>
     <updated>2026-10-14T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-14.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Evaluate and improve your agent steering&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://news.ycombinator.com/item?id=50081857"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm-gemini 0.35&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/13/llm-gemini/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Microsoft Patches More Than 1,400 Security Flaws&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33422"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Building resilient AI-powered software, and planning for when things go wrong&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://newsletter.pragmaticengineer.com/p/building-resilient-systems"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Redesigning source control at Anthropic&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;web-edit 0.1a1&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/13/web-edit/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://aihub.remakelearning.org/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: AgentGate – Fast authorization gateway for AI agent tools&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/mohitdebian/AgentGate"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Are Harnesses Worth the Cost?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-13:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-09-16: </title>
     <updated>2026-09-16T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-16.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-15:daily-digest</id>
-    <title>Daily Digest 2026-09-15: </title>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-15.html"/>
     <content type="html"></content>
   </entry>
 </feed>
