@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-15T07:09:30Z</updated>
+  <updated>2026-10-16T07:08:31Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-16:daily-digest</id>
+    <title>Daily Digest 2026-10-16: Small Agents, Smaller Blast Radius: Controlling Wh; Show HN: Beeline Multiplayer Agent Harness; Carbon as a first-class signal: Bringing software </title>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-16.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://isc.sans.edu/diary/rss/33430"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Beeline Multiplayer Agent Harness&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://usebeeline.app"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Inherit – Zero to Iac&lt;/b&gt; — Automation and IaC improvements that could directly reduce toil in your delivery pipeline. &lt;a href="https://inherit.virtualbeck.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://gitsu.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI says you’re right, formal methods say you’re wrong&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;MCP standardized tools. Now we need the infrastructure around them.&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Pulse: OpenAI software engineer accused of spying&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Chirp Pong&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/15/chirp-pong/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Panchan's Mining Island &amp;amp;#x5b;Guest Diary&amp;amp;#x5d;, (Wed, Oct 14th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33426"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-15:daily-digest</id>
-    <title>Daily Digest 2026-10-15: Show HN: Real Design Benchmark – can you tell AI d; Show HN: MoneySwitch – AI agents pay x402 APIs in ; Why Is My Kubernetes Job Still Pending? Tracing Ku</title>
+    <title>Daily Digest 2026-10-15: </title>
     <updated>2026-10-15T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-15.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Real Design Benchmark – can you tell AI designs from real products?&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.realdesignbenchmark.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: MoneySwitch – AI agents pay x402 APIs in USDC (self-hosted)&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/dongsheng123132/moneyswitch"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Visual Scripting for Golang&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://symphony.q3k.app"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Tree Appreciator&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/14/tree-appreciator/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The EU’s next chapter in AI is agentic&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Uber’s AI infra, from the inside&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Amp puts AI agents to work beyond code with OpenAI models&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/amp-beyond-coding"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;From 2,500 requests to 24: Rebuilding star history without the stargazers&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33420"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-14:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-09-17: </title>
     <updated>2026-09-17T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-17.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-16:daily-digest</id>
-    <title>Daily Digest 2026-09-16: </title>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-16.html"/>
     <content type="html"></content>
   </entry>
 </feed>
