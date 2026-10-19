@@ -4,19 +4,27 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-18T07:04:50Z</updated>
+  <updated>2026-10-19T07:21:53Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-19:daily-digest</id>
+    <title>Daily Digest 2026-10-19: llm-echo 0.5; Show HN: A free MCP server for facts LLMs get wron; Show HN: Stream Reducer – Podcast/Video AI Summari</title>
+    <updated>2026-10-19T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-19.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;llm-echo 0.5&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/18/llm-echo/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://apistack.online/mcp"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Stream Reducer – Podcast/Video AI Summarization at Scale&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://reducer.xgoose.org/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;llm-tools-datasette 0.1.1&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/18/llm-tools-datasette/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Strot – Compile an LLM's intent once, run decisions locally&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/strot-ai/Project-STROT"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33434"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1106: The 10-Day Reply Guy - RAMageddon, HomeView, Ikigai, &amp;amp; the Flying Tesla Roadster&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1106"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-18:daily-digest</id>
-    <title>Daily Digest 2026-10-18: Show HN: Serve Nix closures to k8s pods; Show HN: Gemini 4 Argon plays StarCraft; Show HN: Cosplay as a tech lead, using gVisor to s</title>
+    <title>Daily Digest 2026-10-18: </title>
     <updated>2026-10-18T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-18.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Serve Nix closures to k8s pods&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/Kranzes/nix-store-csi"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Gemini 4 Argon plays StarCraft&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://starskirmish.com/bench/v0-2/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Cosplay as a tech lead, using gVisor to sandbox agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/SoftwareRenderer/MIKE"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Inline rendering with document​.currentScript&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/17/document-currentscript/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;web-edit 0.1a2&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/17/web-edit/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Putting Nepal on the CNCF Golden Kubestronaut map&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-17:daily-digest</id>
@@ -212,13 +220,6 @@
     <title>Daily Digest 2026-09-20: </title>
     <updated>2026-09-20T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-20.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-19:daily-digest</id>
-    <title>Daily Digest 2026-09-19: </title>
-    <updated>2026-09-19T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-19.html"/>
     <content type="html"></content>
   </entry>
 </feed>
