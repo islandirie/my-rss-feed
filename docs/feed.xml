@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-22T07:11:34Z</updated>
+  <updated>2026-10-23T07:10:41Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-23:daily-digest</id>
+    <title>Daily Digest 2026-10-23: Filtering and reducing AI agent telemetry with the; Donating Agent Skills to the Agentic AI Foundation; Blitzy and Autonomous Software Development for Ent</title>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-23.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Filtering and reducing AI agent telemetry with the OpenTelemetry Collector&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Donating Agent Skills to the Agentic AI Foundation&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://simonwillison.net/2026/Oct/22/donating-agent-skills/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Blitzy and Autonomous Software Development for Enterprise&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://softwareengineeringdaily.com/podcasts/blitzy-and-autonomous-software-development-for-enterprise/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;New Serious PHP Vulnerabilities Released and Patched&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://news.ycombinator.com/item?id=50193416"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Pulse: Time to rethink software security because of AI?&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Armin Ronacher&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/22/armin-ronacher/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Building what's next (Interview)&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://changelog.com/podcast/687"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://quantized.uk/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: TenseMem – deterministic memory for AI agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/tensemem/tensemem"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-22:daily-digest</id>
-    <title>Daily Digest 2026-10-22: Before you evaluate an AI SRE, give your existing ; Critical PHP Vulnerability (CVE-2026-109618, CVE-2; Today's PHP Security Release, and How We're Streng</title>
+    <title>Daily Digest 2026-10-22: </title>
     <updated>2026-10-22T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-22.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Before you evaluate an AI SRE, give your existing agent context&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &amp;amp;#x5b;infocon yellow&amp;amp;#x5d;, (Wed, Oct 21st)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33440"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Today's PHP Security Release, and How We're Strengthening PHP Security&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://simonwillison.net/2026/Oct/21/php-security-release/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Fragments: October 21&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://martinfowler.com/fragments/2026-10-21.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How we built ChatGPT’s novel ad stack for user trust and relevance&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/building-chatgpt-ad-stack"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://pawmc-demo.kolaegipet.workers.dev/?demo=1"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Embodsi – Embodied Super Intelligence&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://embodsi.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;There isn't an easy exploit for this PHP vulnerability&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://eliastaylor.com/noexploit/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Your AI agent fixed the bug, but what else did it change?&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Using thousands of AI agents to uncover new leads in biological data&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://openai.com/index/scaling-ai-research-for-complex-biological-data"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-21:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-09-24: </title>
     <updated>2026-09-24T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-24.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-23:daily-digest</id>
-    <title>Daily Digest 2026-09-23: </title>
-    <updated>2026-09-23T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-23.html"/>
     <content type="html"></content>
   </entry>
 </feed>
