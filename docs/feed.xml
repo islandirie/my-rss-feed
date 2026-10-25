@@ -4,23 +4,28 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-24T07:05:54Z</updated>
+  <updated>2026-10-25T07:06:16Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-25:daily-digest</id>
+    <title>Daily Digest 2026-10-25: Show HN: An OSS browser and work environment for h; battledrones v14: Compass Rose, a four player map; Show HN: AgentSkill – Yara-L-Skill</title>
+    <updated>2026-10-25T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-25.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: An OSS browser and work environment for humans and agents&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/zephium-browser/Zephium"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;battledrones v14: Compass Rose, a four player map&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/24/battledrones/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: AgentSkill – Yara-L-Skill&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/ajaynyayapathi/yara-l-skill"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Close the UI building AI agent loop with Protoshot&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://npmjs.com/protoshot"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Increasing Squid Populations&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Securing our frontier model training environment&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/securing-our-frontier-model-training-environment"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;LitPivot: Developing research ideas through dynamic contextualization within the literature landscape&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/allenai/litpivot"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33448"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-24:daily-digest</id>
-    <title>Daily Digest 2026-10-24: Introducing Kimi K3.1 Pro; Show HN: Web Bot Auth SDK and SSH Utilty; Show HN: Latch – Make any website usable by AI age</title>
+    <title>Daily Digest 2026-10-24: </title>
     <updated>2026-10-24T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-24.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Introducing Kimi K3.1 Pro&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Web Bot Auth SDK and SSH Utilty&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://messh.io"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Latch – Make any website usable by AI agents in one line (WebMCP)&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://latch.tools/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Quick Study&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/23/quick-study-painter/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Gasfree.app a Rack of Synthetizers in the Browser&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://gasfree.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;(Reliable)&amp;amp;#x3f; php2shell exploitability, (Fri, Oct 23rd)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33452"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/scaling-storage-one-billion-users-part-two"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33450"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Rumors of the SaaS demise are greatly exaggerated&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-23:daily-digest</id>
@@ -216,13 +221,6 @@
     <title>Daily Digest 2026-09-26: </title>
     <updated>2026-09-26T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-26.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-25:daily-digest</id>
-    <title>Daily Digest 2026-09-25: </title>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-25.html"/>
     <content type="html"></content>
   </entry>
 </feed>
