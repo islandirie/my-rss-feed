@@ -4,20 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-26T07:23:46Z</updated>
+  <updated>2026-10-27T07:12:58Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-27:daily-digest</id>
+    <title>Daily Digest 2026-10-27: Show HN: Limma – MCP for total recall and precisio; Apple Patches for October 2026, (Mon, Oct 26th); Bias in Qwen3-Coder Model</title>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-27.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Limma – MCP for total recall and precision in data retrieval for agents&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://limma.ai"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Apple Patches for October 2026, (Mon, Oct 26th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33458"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bias in Qwen3-Coder Model&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Better Design – alternative to Claude Design, for any coding agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://better-design.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/ArohaLabs/aroha-protocol"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Elevators, toasters, and the birth of Java&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How Ultrafast cut incident investigation from hours to minutes at OpenAI&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/openai-cut-incident-investigation"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;GPT-6.1 Terra&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/26/gpt-61-terra/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Isolation. Security. Scale.&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/26/isolation-security-scale/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp;amp; Complexity Theory&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://lexfridman.com/math-ai-crisis/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=math-ai-crisis"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-26:daily-digest</id>
-    <title>Daily Digest 2026-10-26: Show HN: A 3D mesh playground for coding agents (t; TWiT 1107: Spicy Hinges - Apple's 1st Foldable, GM; Show HN: God – real-time control room for LLM agen</title>
+    <title>Daily Digest 2026-10-26: </title>
     <updated>2026-10-26T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-26.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://sketchagent.dev/s/yfYU6LhT"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TWiT 1107: Spicy Hinges - Apple's 1st Foldable, GM Forward 2026, &amp;amp; PHP Vulnerabilities&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1107"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: God – real-time control room for LLM agent societies (EMNLP 2026 demo)&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/XiaoLuoLYG/GOD"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://github.com/nodecode-ai/nodecode"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Seam Cutter&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/25/seam-cutter/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33456"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;YARA-X 1.22.0 Release, (Sun, Oct 25th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33454"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-25:daily-digest</id>
@@ -213,13 +223,6 @@
     <title>Daily Digest 2026-09-28: </title>
     <updated>2026-09-28T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-28.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-27:daily-digest</id>
-    <title>Daily Digest 2026-09-27: </title>
-    <updated>2026-09-27T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-27.html"/>
     <content type="html"></content>
   </entry>
 </feed>
