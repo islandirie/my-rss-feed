@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-27T07:12:58Z</updated>
+  <updated>2026-10-28T07:04:00Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-28:daily-digest</id>
+    <title>Daily Digest 2026-10-28: Managing AI Coding Costs at Scale; Show HN: SelfClaw – Self-hosted multi-model AI cha; Can we trust LLMs to judge whether a research idea</title>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-28.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Managing AI Coding Costs at Scale&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://softwareengineeringdaily.com/podcasts/managing-ai-coding-costs-at-scale/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/Alanzj/SelfClaw"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Can we trust LLMs to judge whether a research idea is novel?&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/allenai/novelty-bench"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI SRE: what is it, how could it change on-call – and does it work?&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/ai-sre"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: A visual explainer tracing an LLM API request to the GPU and back&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/sujee/visual-stories/tree/main/projects/tracing-llm-api-request"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Announcing the Workload Conformance Working Group&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Binary – hiring tool (ATS) for startups that is MCP friendly&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://binary.so"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Game Boy Color on My Conference Badge&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Retell uses OpenAI models to help power 100M monthly calls&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://openai.com/index/retell-ai"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-27:daily-digest</id>
-    <title>Daily Digest 2026-10-27: Show HN: Limma – MCP for total recall and precisio; Apple Patches for October 2026, (Mon, Oct 26th); Bias in Qwen3-Coder Model</title>
+    <title>Daily Digest 2026-10-27: </title>
     <updated>2026-10-27T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-27.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Limma – MCP for total recall and precision in data retrieval for agents&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://limma.ai"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Apple Patches for October 2026, (Mon, Oct 26th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33458"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Bias in Qwen3-Coder Model&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Better Design – alternative to Claude Design, for any coding agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://better-design.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Aroha – signed, shrinking permissions for AI agents, checked offline&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/ArohaLabs/aroha-protocol"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Elevators, toasters, and the birth of Java&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How Ultrafast cut incident investigation from hours to minutes at OpenAI&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/openai-cut-incident-investigation"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;GPT-6.1 Terra&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Oct/26/gpt-61-terra/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Isolation. Security. Scale.&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/10/26/isolation-security-scale/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp;amp; Complexity Theory&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://lexfridman.com/math-ai-crisis/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=math-ai-crisis"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-26:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-09-29: </title>
     <updated>2026-09-29T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-29.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-09-28:daily-digest</id>
-    <title>Daily Digest 2026-09-28: </title>
-    <updated>2026-09-28T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-09-28.html"/>
     <content type="html"></content>
   </entry>
 </feed>
