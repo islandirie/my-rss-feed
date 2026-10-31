@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-10-30T07:03:22Z</updated>
+  <updated>2026-10-31T07:03:32Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-10-31:daily-digest</id>
+    <title>Daily Digest 2026-10-31: Show HN: Fastbrowse, Browser agent that picks clic; Backdoor in Claude Code for VS Code extension on t; Show HN: Archwhere – work alongside AI coding agen</title>
+    <updated>2026-10-31T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-31.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Fastbrowse, Browser agent that picks clicks with a System One model&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://www.fastbrowse.ai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Backdoor in Claude Code for VS Code extension on the Cursor Marketplace&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Archwhere – work alongside AI coding agents on an architecture map&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://github.com/tapaskar/archwhere"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bloatware in Aftermarket Auto Parts&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Pulse: Anthropic kills the coding interview&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Bigfin Squid Off California Coast&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;API credits benefit for eligible ChatGPT subscriptions&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Oct/29/api-credits/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;AI Regulation and What Every Tech Company Should Know&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://softwareengineeringdaily.com/podcasts/ai-regulation-and-what-every-tech-company-should-know/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Software engineering at Google &amp;amp; CS education with Titus Winters&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;dbreunig/nesformer&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://simonwillison.net/2026/Oct/30/nesformer/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-10-30:daily-digest</id>
-    <title>Daily Digest 2026-10-30: Why are good developers so wary of agentic develop; The boundary problem in agentic AI is a platform p; Show HN: Korea-data-MCP – Korean public APIs that </title>
+    <title>Daily Digest 2026-10-30: </title>
     <updated>2026-10-30T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-30.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Why are good developers so wary of agentic development?&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://martinfowler.com/rachels-ramblings/good-devs-wary.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The boundary problem in agentic AI is a platform problem&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Korea-data-MCP – Korean public APIs that agents can't misread&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/YoungsoonLee/korea-data-mcp"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Free CVE feed for agents to lookup vulnerabilities&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://casco.com/cve/agents"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;It’s ok that computers are (sometimes) better than us&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Building a multiplayer game world with autonomous Fable-class models&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Bliki: LLM Voice&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://martinfowler.com/bliki/LLM-Voice.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: DockShift – In-Browser Docker Run, Compose, and K8s Converter&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://dockshift.org/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Quoting Ben Hylak&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://simonwillison.net/2026/Oct/29/ben-hylak/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-10-29:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-10-02: </title>
     <updated>2026-10-02T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-02.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-01:daily-digest</id>
-    <title>Daily Digest 2026-10-01: </title>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-01.html"/>
     <content type="html"></content>
   </entry>
 </feed>
