@@ -4,21 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-09T07:03:49Z</updated>
+  <updated>2026-11-10T07:03:44Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-10:daily-digest</id>
+    <title>Daily Digest 2026-11-10: llm-anthropic 0.31; Run Linux applications in hypervisor-isolated micr; Customer support is the gnarliest AI problem</title>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-10.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;llm-anthropic 0.31&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/llm-anthropic/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Customer support is the gnarliest AI problem&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Locating the source of a mysterious beep with Claude&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33498"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33502"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Prompting Claude Fable 5.2&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Calculators for token costs and Claude Code API budgets&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://modelfold.ai/tools/claude-code-cost"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Kinsona – a hotel booking site that shows its cut on every booking&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://kinsona.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-09:daily-digest</id>
-    <title>Daily Digest 2026-11-09: Show HN: NLP capabilities of Opus, Astra, Argon me; parse_number() as a SQLite extension: C vs Rust; Show HN: Mindfries- AI Interviewer based on real e</title>
+    <title>Daily Digest 2026-11-09: </title>
     <updated>2026-11-09T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-09.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://wordspies.com/hn"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;parse_number() as a SQLite extension: C vs Rust&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://company.mindfries.com/login"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Hide your slop PR descriptions behind&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/details-summary/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Flide: Make Jev-like decision models up to 9.5x faster&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/OmniJev/Flide"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Web Is More Than Enough, by Paul Ford&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/hn-50421091/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TWiT 1109: Looks Like a Fish, Steers Like a Cow - The Voter Tsunami Against Local Data Centers&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1109"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-08:daily-digest</id>
@@ -214,13 +223,6 @@
     <title>Daily Digest 2026-10-12: </title>
     <updated>2026-10-12T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-12.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-11:daily-digest</id>
-    <title>Daily Digest 2026-10-11: </title>
-    <updated>2026-10-11T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-11.html"/>
     <content type="html"></content>
   </entry>
 </feed>
