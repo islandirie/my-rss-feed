@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-10T07:03:44Z</updated>
+  <updated>2026-11-11T07:03:53Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-11:daily-digest</id>
+    <title>Daily Digest 2026-11-11: CNCF and SlashData Report Finds Platform Engineeri; CNCF Welcomes Qualcomm Upgrade to Gold Membership ; llm-gemini 0.36</title>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-11.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-qualcomm-upgrade-to-gold-membership-to-advance-ai-infrastructure-across-the-edge-to-cloud-continuum/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;llm-gemini 0.36&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/10/llm-gemini/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://mimzie.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://huggingface.co/blog/qvac/botpsy"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33508"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;CodeRabbit scales agentic software development and ships 20x more&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://openai.com/index/coderabbit-codex-daybreak"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Black Ops II statically recompiled to native ARM64 macOS&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/adrbn/bo2-mac"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;GitLab and the Evolution of DevSecOps&lt;/b&gt; — Integrating security earlier in the lifecycle; useful practices worth adopting. &lt;a href="https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Software correctness &amp;amp; supply chain security, with Sean Allen&lt;/b&gt; — Supply chain risks are often overlooked until it's too late — track these proactively. &lt;a href="https://newsletter.pragmaticengineer.com/p/software-correctness"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-10:daily-digest</id>
-    <title>Daily Digest 2026-11-10: llm-anthropic 0.31; Run Linux applications in hypervisor-isolated micr; Customer support is the gnarliest AI problem</title>
+    <title>Daily Digest 2026-11-10: </title>
     <updated>2026-11-10T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-10.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;llm-anthropic 0.31&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/llm-anthropic/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Customer support is the gnarliest AI problem&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Locating the source of a mysterious beep with Claude&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33498"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://isc.sans.edu/diary/rss/33502"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Quoting Prompting Claude Fable 5.2&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Calculators for token costs and Claude Code API budgets&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://modelfold.ai/tools/claude-code-cost"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Kinsona – a hotel booking site that shows its cut on every booking&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://kinsona.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-09:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-10-13: </title>
     <updated>2026-10-13T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-13.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-12:daily-digest</id>
-    <title>Daily Digest 2026-10-12: </title>
-    <updated>2026-10-12T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-12.html"/>
     <content type="html"></content>
   </entry>
 </feed>
