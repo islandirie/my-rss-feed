@@ -4,20 +4,29 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-15T07:03:21Z</updated>
+  <updated>2026-11-16T07:08:19Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-16:daily-digest</id>
+    <title>Daily Digest 2026-11-16: Show HN: Agent-Otel-Kit – OTel Dashboards for Clau; Show HN: A benchmark that diffs the whole database; datasette-apps 0.4a0</title>
+    <updated>2026-11-16T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-16.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Agent-Otel-Kit – OTel Dashboards for Claude Code, Codex and Gemini CLI&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/s3onghyun/agent-otel-kit"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: A benchmark that diffs the whole database after an AI agent's task&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://github.com/shubhamjoshipromail-svg/software-world-model"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-apps 0.4a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/15/datasette-apps/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette 1.0a43&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/15/datasette/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-agent 0.6a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/15/datasette-agent/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Redacted - Stop Handing Claude Your Secrets&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/svn-arv/redacted/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1110: High-End Electronic Drumkits - Air Traffic Control &amp;amp; Microsoft 365 Issues Halt the US&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1110"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33520"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;YARA-X 1.23.0 Release, (Sun, Nov 15th)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33496"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-15:daily-digest</id>
-    <title>Daily Digest 2026-11-15: datasette-llm 0.1a11; Show HN:LetThemBuild:Claude, Codex, Gemini, Grok &amp;; Show HN: Turbo-Browser-MCP – Batch forms, DOM delt</title>
+    <title>Daily Digest 2026-11-15: </title>
     <updated>2026-11-15T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-15.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;datasette-llm 0.1a11&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/14/datasette-llm/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN:LetThemBuild:Claude, Codex, Gemini, Grok &amp;amp; OpenRouter models in Parallel&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://letthembuild.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://github.com/Tthanh2k6/turbo-browser-mcp"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Mapping the FAA ground stop with open flight-tracking data&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://news.ycombinator.com/item?id=50502109"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;datasette-vega 0.7&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/14/datasette-vega/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;datasette-cluster-map 0.19&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-14:daily-digest</id>
@@ -213,13 +222,6 @@
     <title>Daily Digest 2026-10-18: </title>
     <updated>2026-10-18T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-18.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-17:daily-digest</id>
-    <title>Daily Digest 2026-10-17: </title>
-    <updated>2026-10-17T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-17.html"/>
     <content type="html"></content>
   </entry>
 </feed>
