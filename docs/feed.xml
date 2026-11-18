@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-17T07:03:43Z</updated>
+  <updated>2026-11-18T07:04:00Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-18:daily-digest</id>
+    <title>Daily Digest 2026-11-18: GPT‑6.2 Astra and GPT‑6.2 Sol; Is your OpenTelemetry pipeline becoming a performa; Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2</title>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-18.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;GPT‑6.2 Astra and GPT‑6.2 Sol&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Is your OpenTelemetry pipeline becoming a performance bottleneck?&lt;/b&gt; — Better visibility into your systems — new tooling or standards that reduce MTTR. &lt;a href="https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://isc.sans.edu/diary/rss/33522"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Attackers Used Optimizely to A/B Test Malware on Top Websites&lt;/b&gt; — Active threat or newly disclosed vulnerability — assess whether it affects your environment. &lt;a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;External sandboxes for coding agents&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Technical Interview Is Broken&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Deterministic Simulation Testing&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://martinfowler.com/articles/deterministic-simulation-testing.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Project badges to show LLM preferences&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://agentsp.lease/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Building the Agent Host Protocol for sessions that continue across devices&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: AgentShield Zero-dep secret redactor and shell firewall for Claude&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/RitualDev-Lab/AgentShield"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-17:daily-digest</id>
-    <title>Daily Digest 2026-11-17: Show HN: Blobby – A design canvas that Claude, Cur; llm 0.37.3; Scheduling the removal of the kube-proxy IPVS back</title>
+    <title>Daily Digest 2026-11-17: </title>
     <updated>2026-11-17T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-17.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Blobby – A design canvas that Claude, Cursor or Codex drives over MCP&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://useblobby.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;llm 0.37.3&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/16/llm/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Scheduling the removal of the kube-proxy IPVS backend&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/11/16/ipvs-removal/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The pioneering coding tricks that built Doom and Quake&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Strengthening the fight against online child sexual abuse with new tools and support&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/strengthening-online-child-safety"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Woolly, a local mem0-compatible memory API for AI agents&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://usewoolly.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Fluxtail – Centralized log search and Live Tail&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://indielaunches.com/projects/prj_diyrnmfunvob-fluxtail"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Software engineering after code becomes cheap with Satya Nadella&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;datasette-maplibre 0.1a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/15/datasette-maplibre/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Usable Security at Luxury Hotels&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-16:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-10-20: </title>
     <updated>2026-10-20T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-20.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-19:daily-digest</id>
-    <title>Daily Digest 2026-10-19: </title>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-19.html"/>
     <content type="html"></content>
   </entry>
 </feed>
