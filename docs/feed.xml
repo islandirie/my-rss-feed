@@ -4,23 +4,26 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-22T07:03:32Z</updated>
+  <updated>2026-11-23T07:03:58Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-23:daily-digest</id>
+    <title>Daily Digest 2026-11-23: Show HN: Smartesto – Run custom prompts on webpage; Select Styling Specimens; Show HN: AI code review in VS Code with your own A</title>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-23.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Smartesto – Run custom prompts on webpages and text with Apple devices&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.giuliomagnifico.dev/apps/smartesto/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Select Styling Specimens&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/22/select-styling/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: AI code review in VS Code with your own API key or Ollama, no account&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: High-Performance Reverse SOCKS5, UDP and MTProto Proxy Cluster in Go&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/zenkdom/reverse-socks-go"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TWiT 1111: That's What Xi Said - Grand Theft Auto VI Releases &amp;amp; Shatters Records&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1111"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Perplexity and Intelligence&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/perplexity-and-intelligence"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-22:daily-digest</id>
-    <title>Daily Digest 2026-11-22: Muru; Show HN: Reviving a 2012 open-source password mana; Show HN: WorldFoundry – AI agents need experience,</title>
+    <title>Daily Digest 2026-11-22: </title>
     <updated>2026-11-22T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-22.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Muru&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://simonwillison.net/2026/Nov/21/muru/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Reviving a 2012 open-source password manager for modern Android&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://jurakovic.github.io/passdroid/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: WorldFoundry – AI agents need experience, not just training data&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://worldfoundry-demo.vercel.app/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Restricting AI agents in mobile operating systems platforms from capturing data&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://signal.org/blog/protecting-your-privacy/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Quoting Ravi Vakil&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/20/ravi-vakil/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;When a sync window closes: How Argo CD self-heal skipped the migration hook&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.cncf.io/blog/2026/11/20/when-a-sync-window-closes-how-argo-cd-self-heal-skipped-the-migration-hook/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Friday Squid Blogging: The Largest Squid Ever Filmed&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Opening a 400-Year-Old Cryptex&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Dispatches from O'Reilly: Inside a software factory&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Combatting adversarial distillation&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/combatting-adversarial-distillation"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-21:daily-digest</id>
@@ -216,13 +219,6 @@
     <title>Daily Digest 2026-10-25: </title>
     <updated>2026-10-25T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-25.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-24:daily-digest</id>
-    <title>Daily Digest 2026-10-24: </title>
-    <updated>2026-10-24T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-24.html"/>
     <content type="html"></content>
   </entry>
 </feed>
