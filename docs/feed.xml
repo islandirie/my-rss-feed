@@ -4,19 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-23T07:03:58Z</updated>
+  <updated>2026-11-24T07:03:43Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-24:daily-digest</id>
+    <title>Daily Digest 2026-11-24: Show HN: Lightweight Agentic CMS on Cloudflare – A; Kubernetes v1.38 Sneak Peek; datasette-agent 0.7a1</title>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-24.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://docs.microfeed.org/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kubernetes v1.38 Sneak Peek&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-agent 0.7a1&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/24/datasette-agent/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Genesis Map – Visualize your agent's changes. See where they can break&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/GenesisAgentInfra/genesis"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ladybird's first alpha release&lt;/b&gt; — Rust/WASM continue to gain production adoption — worth knowing what's newly ergonomic. &lt;a href="https://simonwillison.net/2026/Nov/23/ladybird/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Synth Patch Hero&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://swarkentin.github.io/synth-patch-hero/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-charts 0.1a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/23/datasette-charts/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Agent swarms need more than a message board&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://isc.sans.edu/diary/rss/33550"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Humans Have Rights. Machines Do Not.&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-23:daily-digest</id>
-    <title>Daily Digest 2026-11-23: Show HN: Smartesto – Run custom prompts on webpage; Select Styling Specimens; Show HN: AI code review in VS Code with your own A</title>
+    <title>Daily Digest 2026-11-23: </title>
     <updated>2026-11-23T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-23.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Smartesto – Run custom prompts on webpages and text with Apple devices&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.giuliomagnifico.dev/apps/smartesto/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Select Styling Specimens&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/22/select-styling/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: AI code review in VS Code with your own API key or Ollama, no account&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: High-Performance Reverse SOCKS5, UDP and MTProto Proxy Cluster in Go&lt;/b&gt; — Community-vetted signal from Hacker News — high upvote-to-age ratio means the engineering community found it worth reading. &lt;a href="https://github.com/zenkdom/reverse-socks-go"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;TWiT 1111: That's What Xi Said - Grand Theft Auto VI Releases &amp;amp; Shatters Records&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://twit.tv/shows/this-week-in-tech/episodes/1111"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Perplexity and Intelligence&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://openai.com/index/perplexity-and-intelligence"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-22:daily-digest</id>
@@ -212,13 +223,6 @@
     <title>Daily Digest 2026-10-26: </title>
     <updated>2026-10-26T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-26.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-25:daily-digest</id>
-    <title>Daily Digest 2026-10-25: </title>
-    <updated>2026-10-25T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-25.html"/>
     <content type="html"></content>
   </entry>
 </feed>
