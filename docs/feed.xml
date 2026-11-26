@@ -4,23 +4,30 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-25T07:04:04Z</updated>
+  <updated>2026-11-26T07:03:51Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-26:daily-digest</id>
+    <title>Daily Digest 2026-11-26: 🚀 The story behind “Drone 2”: My KubeCon + CloudNa; Show HN: Talira – Search engine for software, buil; Show HN: Seahelm – Native Mac app for running Clau</title>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-26.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Talira – Search engine for software, built for AI agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://talira.ai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: Seahelm – Native Mac app for running Claude Code agents in parallel&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/BetaYao/seahelm"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;sqlite3_rsync: Database Remote-Copy Tool For SQLite&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Where scientists draw the line on AI agents&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: A daily word puzzle where an AI gives the clue and you guess&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://wordspies.com/daily"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How Anthropic builds software in 2026 with Katelyn Lesse&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Tracking Incidents of Hacking Using AI Tools&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;When AI Writes the Code, What Counts as Evidence?&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-25:daily-digest</id>
-    <title>Daily Digest 2026-11-25: Three LLM inflection points in twelve months; Show HN: Carry – Save every AI conversations as Ma; Show HN: Autodidactic Credential Sovereignty – Coq</title>
+    <title>Daily Digest 2026-11-25: </title>
     <updated>2026-11-25T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-25.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Three LLM inflection points in twelve months&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/24/llm-inflection-points/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://carry.md/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Autodidactic Credential Sovereignty – Coq, No_std Rust and ZK Benchmark&lt;/b&gt; — Benchmarks cut through the hype — useful for choosing which model or tool to actually rely on. &lt;a href="https://github.com/trencinodin-stack/autodidactic-credential-sovereignty"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: TokenMargin – Client-side LLM API cost simulator and CSV bill auditor&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://tokenmargin.dev/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Warp bets on the software factory (Interview)&lt;/b&gt; — Automation and IaC improvements that could directly reduce toil in your delivery pipeline. &lt;a href="https://changelog.com/podcast/693"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How Gemini is changing the game for Golden State's organization and fans.&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Steve Yegge on Building Software Factories&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://softwareengineeringdaily.com/podcasts/steve-yegge-on-building-software-factories/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A more tailored Google Search that’s uniquely yours&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;We Get the Infrastructure We Pay For&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-24:daily-digest</id>
@@ -216,13 +223,6 @@
     <title>Daily Digest 2026-10-28: </title>
     <updated>2026-10-28T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-28.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-27:daily-digest</id>
-    <title>Daily Digest 2026-10-27: </title>
-    <updated>2026-10-27T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-27.html"/>
     <content type="html"></content>
   </entry>
 </feed>
