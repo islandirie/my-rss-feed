@@ -4,23 +4,28 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-26T07:03:51Z</updated>
+  <updated>2026-11-27T07:03:47Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-27:daily-digest</id>
+    <title>Daily Digest 2026-11-27: Show HN: Scolast – AI tutor for autodidacts inspir; Temporal and Durable Execution for AI Agents; Introducing the llama.cpp benchmark dashboard for </title>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-27.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://scolast.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Temporal and Durable Execution for AI Agents&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://softwareengineeringdaily.com/podcasts/temporal-and-durable-execution-for-ai-agents/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: DataFluxor – SEO, Etsy Research and Scraping via API and MCP&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://datafluxor.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Quoting Jack Despain Zhou&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://huggingface.co/blog/training-swarms"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Sandboxes, secure inference, and keeping agents from going rogue&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-26:daily-digest</id>
-    <title>Daily Digest 2026-11-26: 🚀 The story behind “Drone 2”: My KubeCon + CloudNa; Show HN: Talira – Search engine for software, buil; Show HN: Seahelm – Native Mac app for running Clau</title>
+    <title>Daily Digest 2026-11-26: </title>
     <updated>2026-11-26T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-26.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote&lt;/b&gt; — Kubernetes ecosystem changes can surface new operational patterns or affect your existing clusters. &lt;a href="https://www.cncf.io/blog/2026/11/25/%f0%9f%9a%80-the-story-behind-drone-2-my-kubecon-cloudnativecon-north-america-2026-keynote/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Talira – Search engine for software, built for AI agents&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://talira.ai/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: Seahelm – Native Mac app for running Claude Code agents in parallel&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://github.com/BetaYao/seahelm"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;sqlite3_rsync: Database Remote-Copy Tool For SQLite&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Where scientists draw the line on AI agents&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: A daily word puzzle where an AI gives the clue and you guess&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://wordspies.com/daily"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;How Anthropic builds software in 2026 with Katelyn Lesse&lt;/b&gt; — Curated audio for your commute — scan the episode summary to decide if it earns queue time. &lt;a href="https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Tracking Incidents of Hacking Using AI Tools&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;When AI Writes the Code, What Counts as Evidence?&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-25:daily-digest</id>
@@ -216,13 +221,6 @@
     <title>Daily Digest 2026-10-29: </title>
     <updated>2026-10-29T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-29.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-28:daily-digest</id>
-    <title>Daily Digest 2026-10-28: </title>
-    <updated>2026-10-28T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-28.html"/>
     <content type="html"></content>
   </entry>
 </feed>
