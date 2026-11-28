@@ -4,21 +4,28 @@
   <id>https://islandirie.github.io/my-rss-feed/</id>
   <link href="https://islandirie.github.io/my-rss-feed/"/>
   <link rel="self" href="https://islandirie.github.io/my-rss-feed/feed.xml"/>
-  <updated>2026-11-27T07:03:47Z</updated>
+  <updated>2026-11-28T07:03:23Z</updated>
   <author><name>islandirie</name></author>
   <entry>
+    <id>tag:my-rss-feed,2026-11-28:daily-digest</id>
+    <title>Daily Digest 2026-11-28: Show HN: Plain-Auth an open-source authentication ; datasette-charts 0.4a0; States sue SpaceX to stop Grok from generating chi</title>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-28.html"/>
+    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Plain-Auth an open-source authentication library for Go&lt;/b&gt; — New release or open-sourced project — quick scan to see if it belongs in your toolkit. &lt;a href="https://github.com/Plain-Org/plain-auth"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-charts 0.4a0&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/27/datasette-charts/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;States sue SpaceX to stop Grok from generating child sex images, revenge porn&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Show HN: WikiVectors – makes any LLM smarter&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://wikivectors.com/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;datasette-mcp 0.4&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://simonwillison.net/2026/Nov/27/datasette-mcp/"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Recent Outages Have Economic Causes&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Friday Squid Blogging: Giant Squid in Newfoundland&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html"&gt;Read&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Taking Trainium3 to the Track: Generating Videos with LTX-2.5&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://huggingface.co/blog/video-trainium3"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:my-rss-feed,2026-11-27:daily-digest</id>
-    <title>Daily Digest 2026-11-27: Show HN: Scolast – AI tutor for autodidacts inspir; Temporal and Durable Execution for AI Agents; Introducing the llama.cpp benchmark dashboard for </title>
+    <title>Daily Digest 2026-11-27: </title>
     <updated>2026-11-27T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-11-27.html"/>
-    <content type="html">&lt;p&gt;&lt;b&gt;Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://scolast.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Temporal and Durable Execution for AI Agents&lt;/b&gt; — Design patterns and lessons from production systems — high-leverage reading for senior engineers. &lt;a href="https://softwareengineeringdaily.com/podcasts/temporal-and-durable-execution-for-ai-agents/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Show HN: DataFluxor – SEO, Etsy Research and Scraping via API and MCP&lt;/b&gt; — Expanding what LLMs can interact with — relevant if you're building or using agentic pipelines. &lt;a href="https://datafluxor.com"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Quoting Jack Despain Zhou&lt;/b&gt; — New or updated LLM releases affect tool choices across your entire stack — from IDE copilots to pipeline automation. &lt;a href="https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems&lt;/b&gt; — Agentic tools are changing how software gets built — worth knowing what's newly available and battle-tested. &lt;a href="https://huggingface.co/blog/training-swarms"&gt;Read&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Sandboxes, secure inference, and keeping agents from going rogue&lt;/b&gt; — Flagged as relevant to your interests — read the summary to decide if it's worth your time. &lt;a href="https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/"&gt;Read&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html"></content>
   </entry>
   <entry>
     <id>tag:my-rss-feed,2026-11-26:daily-digest</id>
@@ -214,13 +221,6 @@
     <title>Daily Digest 2026-10-30: </title>
     <updated>2026-10-30T00:00:00Z</updated>
     <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-30.html"/>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <id>tag:my-rss-feed,2026-10-29:daily-digest</id>
-    <title>Daily Digest 2026-10-29: </title>
-    <updated>2026-10-29T00:00:00Z</updated>
-    <link href="https://islandirie.github.io/my-rss-feed/daily/2026-10-29.html"/>
     <content type="html"></content>
   </entry>
 </feed>
